@@ -1,0 +1,12 @@
+- updated readme
+- aws version
+- aws version
+- fixed bugs
+- added build
+- local version
+- added bootstrap and links
+- Merge branch 'back-end' of https://github.com/SD2president/MERN_project into back-end
+- added edit autfill and some bootstrap
+- adding comments model
+- Merge branch 'back-end' of https://github.com/SD2president/MERN_project into back-end
+- adding comment routes
